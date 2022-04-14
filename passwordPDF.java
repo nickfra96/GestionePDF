@@ -1,4 +1,4 @@
-package it.francesco.progetti.passwordPDF;
+package it.francesco.progetti.gestorePDF;
 
 import java.io.File;
 import java.io.FileOutputStream;
