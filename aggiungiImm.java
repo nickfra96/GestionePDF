@@ -18,7 +18,7 @@ public class aggiungiImm {
 			documento.add(new Paragraph("Immagine example"));
 
 			Image immagine = Image.getInstance("1.png");
-			immagine.scaleAbsolute(200, 200);
+			immagine.scaleAbsolute(100, 100);
 
 			documento.add(immagine);
 
