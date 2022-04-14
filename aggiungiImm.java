@@ -17,10 +17,10 @@ public class aggiungiImm {
 			documento.open();
 			documento.add(new Paragraph("Immagine example"));
 
-			Image image1 = Image.getInstance("1.png");
-			image1.scaleAbsolute(200, 200);
+			Image immagine = Image.getInstance("1.png");
+			immagine.scaleAbsolute(200, 200);
 
-			documento.add(image1);
+			documento.add(immagine);
 
 			documento.close();
 			writer.close();
