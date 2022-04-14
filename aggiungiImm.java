@@ -1,4 +1,5 @@
-package com.howtodoinjava.examples;
+
+package it.francesco.progetti.gestorePDF;
 
 import java.io.FileOutputStream;
 import java.net.URL;
