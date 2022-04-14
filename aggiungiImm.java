@@ -2,7 +2,6 @@
 package it.francesco.progetti.gestorePDF;
 
 import java.io.FileOutputStream;
-import java.net.URL;
 
 import com.itextpdf.text.Document;
 import com.itextpdf.text.Image;
